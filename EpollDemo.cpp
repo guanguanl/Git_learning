@@ -15,6 +15,7 @@
 #include<stdlib.h>
 #include<sys/epoll.h>
 #include<pthread.h>
+/*comment guanguanl 20231016 022/
 
 /*guanguanl comment 20231016*/
 #define MAX_EVENT_NUMBER 1024
