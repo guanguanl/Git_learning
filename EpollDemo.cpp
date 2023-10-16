@@ -16,6 +16,7 @@
 #include<sys/epoll.h>
 #include<pthread.h>
 
+/*guanguanl comment 20231016*/
 #define MAX_EVENT_NUMBER 1024
 #define BUFFER_SIZE 10
 //将文件描述符设置为非阻塞的
